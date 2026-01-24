@@ -1,0 +1,29 @@
+function funcName(){
+    console.log("Hello Welcome Team")
+}
+funcName()
+function add(a,b) {
+    let c=a+b
+    console.log(c);
+}
+add(10,10)
+function add(){
+let a=10
+let b=10
+let c= a+b
+console.log(c);
+}
+add()
+if (true){
+    var compnayName ="TestLeaf"
+    
+}
+
+
+
+
+function greet() {
+    var message = "Hello Team"
+    console.log(message)
+}
+greet()
